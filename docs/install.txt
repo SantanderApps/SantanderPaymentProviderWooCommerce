@@ -6,15 +6,24 @@ INSTALL THE MODULE
 2. Requirements
 The following requirements must be fulfilled for this module to work.
 * PHP version 5.3.0 or greater.
-* PHP SoapClient (6a)
+* PHP SoapClient (7a)
 * Openssl
-* cURL lib must be enabled for PHP (6b)
-* libxml (6c)
+* cURL lib must be enabled for PHP (7b)
+* libxml (7c)
 
 3. Installation
+A. Install through Wordpress Control Panel
 * Download the module from the WordPress Plugin Directory using the Plugin manager inside your WordPress control panel.
 
-4. Configuration parameters
+B. Manual installation
+* Download the zip file from the GitHub repo and store it on you local computer.
+* Go to WordPress control panel > Plugins > Add new and click on "Upload Plugin".
+* Browse for the zip file and select it.
+* Upload it and the configure it (see section "Configure the module").
+
+4. Configure the module
+
+5. Configuration parameters
 * Enable/Disable:
     whether to enable or disable the payment module.
 * Store ID: 
@@ -28,14 +37,14 @@ The following requirements must be fulfilled for this module to work.
 * Set Module Environment: 
     select which environment you want to run the module. Sandbox (test environment) is used for evaluating the module.
 
-5. Supported payment service providers
+6. Supported payment service providers
 Santander supports the following payment service providers:
 * Dibs
 * DebiTech o Nets
 * Payex
 * Samport
 
-6. Links
+7. Links
 a) [http://php.net/manual/en/class.soapclient.php](http://php.net/manual/en/class.soapclient.php)
 b) [http://php.net/manual/en/book.curl.php](http://php.net/manual/en/book.curl.php)
 c) [http://php.net/manual/en/book.libxml.php](http://php.net/manual/en/book.libxml.php)
