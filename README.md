@@ -6,8 +6,8 @@ Santander’s Woocommerce payment gateway module supports customer credit applic
 ## Current version
 * Version: 1.0.2wo
 * Release date: 2015-11-10
-* Platform: WooCommerce 2.4.8
-* Backward compatibility: 2.4.7, 2.4.6
+* Platform: WooCommerce 2.4.10
+* Backward compatibility: 2.4.9, 2.4.8, 2.4.7, 2.4.6
 
 ## Requirements
 * PHP version 5.3.0 or greater.
