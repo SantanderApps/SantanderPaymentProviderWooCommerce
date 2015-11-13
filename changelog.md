@@ -1,5 +1,8 @@
 ## Changelog ##
 
+### 1.0.3wo ###
+* New: Option for sending information to Santander regarding usage of the plugin.
+
 ### 1.0.2wo ###
 * Fix: syntax error in src/Santander/i18n/Message.php.
 
