@@ -1,5 +1,8 @@
 ## Changelog ##
 
+### 1.0.4wo ###
+* Bug: Solves an issue with verifying user account details.
+
 ### 1.0.3wo ###
 * Tested for version 4.4 of WordPress.
 * Bug: Return URL did not work when permalinks had another format then ’Default’.
