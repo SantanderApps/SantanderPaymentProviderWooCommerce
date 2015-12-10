@@ -1,5 +1,11 @@
 ## Changelog ##
 
+### 1.0.6wo ###
+* Changed: Better informative texts in checkout.
+
+### 1.0.5wo ###
+* Bug: Fixes a bug with token that is being incorrect encoded when sent to GetResult().
+
 ### 1.0.4wo ###
 * Bug: Solves an issue with verifying user account details.
 
